@@ -1,0 +1,3 @@
+A Weather Web Application that tells you your current city's weather as well as weather of any city that you search for!
+This project uses HTML (file:index.html) for basic structuring of the web components along with CSS (file:style.css) to define styles for the web-page. DOM Manipulation in this project is done using JavaScript(file:index.js) to fetch and render the information that was received from an api call into the webpage.
+Please do go through the project and run it and let me know your suggestions! Thankyou! :)
